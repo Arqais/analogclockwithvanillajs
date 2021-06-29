@@ -1,0 +1,20 @@
+#digitalClock div{
+	font-weight: 800;
+	display: inline-block;
+	font-family: monospace;
+	text-align: center;
+	font-size:100px;
+	color: white;
+}
+
+#digitalClock {
+	border: 5px black solid;
+	border-radius: 10px;
+	text-align: center;
+	font-weight: 800;
+	margin-top: 190px;
+}
+
+body {
+	background: black;
+}
